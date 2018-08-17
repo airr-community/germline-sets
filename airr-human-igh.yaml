@@ -18,6 +18,20 @@
 
 # NOTE: This file is currently hand-maintained.
 
+Info:
+  description: Homo sapiens IGH locus
+  version:
+  url:
+  id_designation: airr
+  id_group:
+    - 1
+    - 2
+    - 3
+  id_number:
+    - 263
+    - 30
+    - 13
+
 Gene_Description:
   # V genes
   - description_id: airr1-1
