@@ -1,0 +1,3733 @@
+#
+# Homo sapiens IGH locus
+#
+# Copyright (c) 2018 AIRR Community of the Antibody Society
+# Date: August 17, 2018
+# https://www.antibodysociety.org/airrc/
+#
+# This file is part of the AIRR Community germline annotation
+#
+# This work is licensed under the 
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# http://creativecommons.org/licenses/by-sa/4.0/
+#
+# This work is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+# NOTE: This file is currently hand-maintained.
+
+Gene_Description:
+  # V genes
+  - description_id: airr1-1
+    organism: Homo sapiens
+    sequence_name: X07448
+    alt_names:
+      - IGHV1-2*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "2"
+    allele_designation: "01"
+
+  - description_id: airr1-2
+    organism: Homo sapiens
+    sequence_name: X62106
+    alt_names:
+      - IGHV1-2*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "2"
+    allele_designation: "02"
+
+  - description_id: airr1-3
+    organism: Homo sapiens
+    sequence_name: X92208
+    alt_names:
+      - IGHV1-2*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "2"
+    allele_designation: "03"
+
+  - description_id: airr1-4
+    organism: Homo sapiens
+    sequence_name: KF698733
+    alt_names:
+      - IGHV1-2*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "2"
+    allele_designation: "04"
+
+  - description_id: airr1-5
+    organism: Homo sapiens
+    sequence_name: HM855674
+    alt_names:
+      - IGHV1-2*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "2"
+    allele_designation: "05"
+
+  - description_id: airr1-6
+    organism: Homo sapiens
+    sequence_name: MH267285
+    alt_names:
+      - IGHV1-2*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "2"
+    allele_designation: "06"
+
+  - description_id: airr1-7
+    organism: Homo sapiens
+    sequence_name: X62109
+    alt_names:
+      - IGHV1-3*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "3"
+    allele_designation: "01"
+
+  - description_id: airr1-8
+    organism: Homo sapiens
+    sequence_name: X62107
+    alt_names:
+      - IGHV1-3*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "3"
+    allele_designation: "02"
+
+  - description_id: airr1-9
+    organism: Homo sapiens
+    sequence_name: M99637
+    alt_names:
+      - IGHV1-8*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "8"
+    allele_designation: "01"
+
+  - description_id: airr1-10
+    organism: Homo sapiens
+    sequence_name: HM855457
+    alt_names:
+      - IGHV1-8*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "8"
+    allele_designation: "02"
+
+  - description_id: airr1-11
+    organism: Homo sapiens
+    sequence_name: MG719312
+    alt_names:
+      - IGHV1-8*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "8"
+    allele_designation: "03"
+
+  - description_id: airr1-12
+    organism: Homo sapiens
+    sequence_name: M99641
+    alt_names:
+      - IGHV1-18*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "18"
+    allele_designation: "01"
+
+  - description_id: airr1-13
+    organism: Homo sapiens
+    sequence_name: X60503
+    alt_names:
+      - IGHV1-18*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "18"
+    allele_designation: "02"
+
+  - description_id: airr1-14
+    organism: Homo sapiens
+    sequence_name: HM855463
+    alt_names:
+      - IGHV1-18*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "18"
+    allele_designation: "03"
+
+  - description_id: airr1-15
+    organism: Homo sapiens
+    sequence_name: KC713938
+    alt_names:
+      - IGHV1-18*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "18"
+    allele_designation: "04"
+
+  - description_id: airr1-16
+    organism: Homo sapiens
+    sequence_name: M99642
+    alt_names:
+      - IGHV1-24*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "24"
+    allele_designation: "01"
+
+  - description_id: airr1-17
+    organism: Homo sapiens
+    sequence_name: X92209
+    alt_names:
+      - IGHV1-45*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "45"
+    allele_designation: "01"
+
+  - description_id: airr1-18
+    organism: Homo sapiens
+    sequence_name: AB019438
+    alt_names:
+      - IGHV1-45*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "45"
+    allele_designation: "02"
+
+  - description_id: airr1-19
+    organism: Homo sapiens
+    sequence_name: Z17391
+    alt_names:
+      - IGHV1-45*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "45"
+    allele_designation: "03"
+
+  - description_id: airr1-20
+    organism: Homo sapiens
+    sequence_name: X92343
+    alt_names:
+      - IGHV1-46*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "46"
+    allele_designation: "01"
+
+  - description_id: airr1-21
+    organism: Homo sapiens
+    sequence_name: J00240
+    alt_names:
+      - IGHV1-46*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "46"
+    allele_designation: "02"
+
+  - description_id: airr1-22
+    organism: Homo sapiens
+    sequence_name: L06612
+    alt_names:
+      - IGHV1-46*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "46"
+    allele_designation: "03"
+
+  - description_id: airr1-23
+    organism: Homo sapiens
+    sequence_name: M29809
+    alt_names:
+      - IGHV1-58*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "58"
+    allele_designation: "01"
+
+  - description_id: airr1-24
+    organism: Homo sapiens
+    sequence_name: AB019438
+    alt_names:
+      - IGHV1-58*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "58"
+    allele_designation: "02"
+
+  - description_id: airr1-25
+    organism: Homo sapiens
+    sequence_name: L22582
+    alt_names:
+      - IGHV1-69*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "01"
+
+  - description_id: airr1-26
+    organism: Homo sapiens
+    sequence_name: Z27506
+    alt_names:
+      - IGHV1-69*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "02"
+
+  - description_id: airr1-27
+    organism: Homo sapiens
+    sequence_name: X92340
+    alt_names:
+      - IGHV1-69*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "03"
+
+  - description_id: airr1-28
+    organism: Homo sapiens
+    sequence_name: M83132
+    alt_names:
+      - IGHV1-69*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "04"
+
+  - description_id: airr1-29
+    organism: Homo sapiens
+    sequence_name: X67905
+    alt_names:
+      - IGHV1-69*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "05"
+
+  - description_id: airr1-30
+    organism: Homo sapiens
+    sequence_name: L22583
+    alt_names:
+      - IGHV1-69*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "06"
+
+  - description_id: airr1-31
+    organism: Homo sapiens
+    sequence_name: Z29978
+    alt_names:
+      - IGHV1-69*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "07"
+
+  - description_id: airr1-32
+    organism: Homo sapiens
+    sequence_name: Z14309
+    alt_names:
+      - IGHV1-69*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "08"
+
+  - description_id: airr1-33
+    organism: Homo sapiens
+    sequence_name: Z14307
+    alt_names:
+      - IGHV1-69*09
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "09"
+
+  - description_id: airr1-34
+    organism: Homo sapiens
+    sequence_name: Z14300
+    alt_names:
+      - IGHV1-69*10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "10"
+
+  - description_id: airr1-35
+    organism: Homo sapiens
+    sequence_name: Z14296
+    alt_names:
+      - IGHV1-69*11
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "11"
+
+  - description_id: airr1-36
+    organism: Homo sapiens
+    sequence_name: Z14301
+    alt_names:
+      - IGHV1-69*12
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "12"
+
+  - description_id: airr1-37
+    organism: Homo sapiens
+    sequence_name: Z14214
+    alt_names:
+      - IGHV1-69*13
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "13"
+
+  - description_id: airr1-38
+    organism: Homo sapiens
+    sequence_name: KC713948
+    alt_names:
+      - IGHV1-69*14
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "14"
+
+  - description_id: airr1-39
+    organism: Homo sapiens
+    sequence_name: MG719326
+    alt_names:
+      - IGHV1-69*15
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "15"
+
+  - description_id: airr1-40
+    organism: Homo sapiens
+    sequence_name: MG719328
+    alt_names:
+      - IGHV1-69*16
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "16"
+
+  - description_id: airr1-41
+    organism: Homo sapiens
+    sequence_name: MH359407
+    alt_names:
+      - IGHV1-69*17
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69"
+    allele_designation: "17"
+
+  - description_id: airr1-42
+    organism: Homo sapiens
+    sequence_name: KF698734
+    alt_names:
+      - IGHV1-69-2*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69-2"
+    allele_designation: "01"
+
+  - description_id: airr1-43
+    organism: Homo sapiens
+    sequence_name: Z29977
+    alt_names:
+      - IGHV1-69-2*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69-2"
+    allele_designation: "02"
+
+  - description_id: airr1-44
+    organism: Homo sapiens
+    sequence_name: KC713934
+    alt_names:
+      - IGHV1-69D*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "69D"
+    allele_designation: "01"
+
+  - description_id: airr1-45
+    organism: Homo sapiens
+    sequence_name: X62111
+    alt_names:
+      - IGHV2-5*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "01"
+
+  - description_id: airr1-46
+    organism: Homo sapiens
+    sequence_name: KF698731
+    alt_names:
+      - IGHV2-5*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "02"
+
+  - description_id: airr1-47
+    organism: Homo sapiens
+    sequence_name: X93619
+    alt_names:
+      - IGHV2-5*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "03"
+
+  - description_id: airr1-48
+    organism: Homo sapiens
+    sequence_name: L21963
+    alt_names:
+      - IGHV2-5*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "04"
+
+  - description_id: airr1-49
+    organism: Homo sapiens
+    sequence_name: L21964
+    alt_names:
+      - IGHV2-5*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "05"
+
+  - description_id: airr1-50
+    organism: Homo sapiens
+    sequence_name: L21966
+    alt_names:
+      - IGHV2-5*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "06"
+
+  - description_id: airr1-51
+    organism: Homo sapiens
+    sequence_name: L21971
+    alt_names:
+      - IGHV2-5*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "08"
+
+  - description_id: airr1-52
+    organism: Homo sapiens
+    sequence_name: L21972
+    alt_names:
+      - IGHV2-5*09
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "5"
+    allele_designation: "09"
+
+  - description_id: airr1-53
+    organism: Homo sapiens
+    sequence_name: M99648
+    alt_names:
+      - IGHV2-26*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "26"
+    allele_designation: "01"
+
+  - description_id: airr1-54
+    organism: Homo sapiens
+    sequence_name: MG719335
+    alt_names:
+      - IGHV2-26*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "26"
+    allele_designation: "02"
+
+  - description_id: airr1-55
+    organism: Homo sapiens
+    sequence_name: MG719336
+    alt_names:
+      - IGHV2-26*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "26"
+    allele_designation: "03"
+
+  - description_id: airr1-56
+    organism: Homo sapiens
+    sequence_name: L21969
+    alt_names:
+      - IGHV2-70*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "01"
+
+  - description_id: airr1-57
+    organism: Homo sapiens
+    sequence_name: X92241
+    alt_names:
+      - IGHV2-70*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "02"
+
+  - description_id: airr1-58
+    organism: Homo sapiens
+    sequence_name: X92238
+    alt_names:
+      - IGHV2-70*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "03"
+
+  - description_id: airr1-59
+    organism: Homo sapiens
+    sequence_name: MG719337
+    alt_names:
+      - IGHV2-70*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "04"
+
+  - description_id: airr1-60
+    organism: Homo sapiens
+    sequence_name: Z27502
+    alt_names:
+      - IGHV2-70*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "05"
+
+  - description_id: airr1-61
+    organism: Homo sapiens
+    sequence_name: X92239
+    alt_names:
+      - IGHV2-70*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "06"
+
+  - description_id: airr1-62
+    organism: Homo sapiens
+    sequence_name: X92243
+    alt_names:
+      - IGHV2-70*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "07"
+
+  - description_id: airr1-63
+    organism: Homo sapiens
+    sequence_name: X92245
+    alt_names:
+      - IGHV2-70*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "08"
+
+  - description_id: airr1-64
+    organism: Homo sapiens
+    sequence_name: L21965
+    alt_names:
+      - IGHV2-70*10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "10"
+
+  - description_id: airr1-65
+    organism: Homo sapiens
+    sequence_name: L21967
+    alt_names:
+      - IGHV2-70*11
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "11"
+
+  - description_id: airr1-66
+    organism: Homo sapiens
+    sequence_name: L21970
+    alt_names:
+      - IGHV2-70*12
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "12"
+
+  - description_id: airr1-67
+    organism: Homo sapiens
+    sequence_name: AB019437
+    alt_names:
+      - IGHV2-70*13
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "13"
+
+  - description_id: airr1-68
+    organism: Homo sapiens
+    sequence_name: MG719338
+    alt_names:
+      - IGHV2-70*15
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "15"
+
+  - description_id: airr1-69
+    organism: Homo sapiens
+    sequence_name: MG719340
+    alt_names:
+      - IGHV2-70*16
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "16"
+
+  - description_id: airr1-70
+    organism: Homo sapiens
+    sequence_name: MG719342
+    alt_names:
+      - IGHV2-70*17
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70"
+    allele_designation: "17"
+
+  - description_id: airr1-71
+    organism: Homo sapiens
+    sequence_name: KC713935
+    alt_names:
+      - IGHV2-70D*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70D"
+    allele_designation: "04"
+
+  - description_id: airr1-72
+    organism: Homo sapiens
+    sequence_name: KC713949
+    alt_names:
+      - IGHV2-70D*14
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "70D"
+    allele_designation: "14"
+
+  - description_id: airr1-73
+    organism: Homo sapiens
+    sequence_name: M99649
+    alt_names:
+      - IGHV3-7*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "7"
+    allele_designation: "01"
+
+  - description_id: airr1-74
+    organism: Homo sapiens
+    sequence_name: X92288
+    alt_names:
+      - IGHV3-7*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "7"
+    allele_designation: "02"
+
+  - description_id: airr1-75
+    organism: Homo sapiens
+    sequence_name: HM855666
+    alt_names:
+      - IGHV3-7*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "7"
+    allele_designation: "03"
+
+  - description_id: airr1-76
+    organism: Homo sapiens
+    sequence_name: M99651
+    alt_names:
+      - IGHV3-9*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "9"
+    allele_designation: "01"
+
+  - description_id: airr1-77
+    organism: Homo sapiens
+    sequence_name: HM855577
+    alt_names:
+      - IGHV3-9*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "9"
+    allele_designation: "02"
+
+  - description_id: airr1-78
+    organism: Homo sapiens
+    sequence_name: KC713947
+    alt_names:
+      - IGHV3-9*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "9"
+    allele_designation: "03"
+
+  - description_id: airr1-79
+    organism: Homo sapiens
+    sequence_name: M99652
+    alt_names:
+      - IGHV3-11*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "11"
+    allele_designation: "01"
+
+  - description_id: airr1-80
+    organism: Homo sapiens
+    sequence_name: X92287
+    alt_names:
+      - IGHV3-11*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "11"
+    allele_designation: "03"
+
+  - description_id: airr1-81
+    organism: Homo sapiens
+    sequence_name: HM855329
+    alt_names:
+      - IGHV3-11*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "11"
+    allele_designation: "04"
+
+  - description_id: airr1-82
+    organism: Homo sapiens
+    sequence_name: HM855583
+    alt_names:
+      - IGHV3-11*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "11"
+    allele_designation: "05"
+
+  - description_id: airr1-83
+    organism: Homo sapiens
+    sequence_name: KC713940
+    alt_names:
+      - IGHV3-11*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "11"
+    allele_designation: "06"
+
+  - description_id: airr1-84
+    organism: Homo sapiens
+    sequence_name: X92217
+    alt_names:
+      - IGHV3-13*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "13"
+    allele_designation: "01"
+
+  - description_id: airr1-85
+    organism: Homo sapiens
+    sequence_name: M99653
+    alt_names:
+      - IGHV3-13*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "13"
+    allele_designation: "02"
+
+  - description_id: airr1-86
+    organism: Homo sapiens
+    sequence_name: U29582
+    alt_names:
+      - IGHV3-13*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "13"
+    allele_designation: "03"
+
+  - description_id: airr1-87
+    organism: Homo sapiens
+    sequence_name: HM855616
+    alt_names:
+      - IGHV3-13*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "13"
+    allele_designation: "04"
+
+  - description_id: airr1-88
+    organism: Homo sapiens
+    sequence_name: KC713939
+    alt_names:
+      - IGHV3-13*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "13"
+    allele_designation: "05"
+
+  - description_id: airr1-89
+    organism: Homo sapiens
+    sequence_name: X92216
+    alt_names:
+      - IGHV3-15*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "01"
+
+  - description_id: airr1-90
+    organism: Homo sapiens
+    sequence_name: M99654
+    alt_names:
+      - IGHV3-15*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "02"
+
+  - description_id: airr1-91
+    organism: Homo sapiens
+    sequence_name: M99408
+    alt_names:
+      - IGHV3-15*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "03"
+
+  - description_id: airr1-92
+    organism: Homo sapiens
+    sequence_name: M99402
+    alt_names:
+      - IGHV3-15*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "04"
+
+  - description_id: airr1-93
+    organism: Homo sapiens
+    sequence_name: M99403
+    alt_names:
+      - IGHV3-15*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "05"
+
+  - description_id: airr1-94
+    organism: Homo sapiens
+    sequence_name: M99404
+    alt_names:
+      - IGHV3-15*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "06"
+
+  - description_id: airr1-95
+    organism: Homo sapiens
+    sequence_name: M99406
+    alt_names:
+      - IGHV3-15*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "07"
+
+  - description_id: airr1-96
+    organism: Homo sapiens
+    sequence_name: M99400
+    alt_names:
+      - IGHV3-15*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "08"
+
+  - description_id: airr1-97
+    organism: Homo sapiens
+    sequence_name: M99657
+    alt_names:
+      - IGHV3-20*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "20"
+    allele_designation: "01"
+
+  - description_id: airr1-98
+    organism: Homo sapiens
+    sequence_name: AB019439
+    alt_names:
+      - IGHV3-21*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "21"
+    allele_designation: "01"
+
+  - description_id: airr1-99
+    organism: Homo sapiens
+    sequence_name: M99658
+    alt_names:
+      - IGHV3-21*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "21"
+    allele_designation: "02"
+
+  - description_id: airr1-100
+    organism: Homo sapiens
+    sequence_name: HM855323
+    alt_names:
+      - IGHV3-21*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "21"
+    allele_designation: "03"
+
+  - description_id: airr1-101
+    organism: Homo sapiens
+    sequence_name: HM855688
+    alt_names:
+      - IGHV3-21*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "21"
+    allele_designation: "04"
+
+  - description_id: airr1-102
+    organism: Homo sapiens
+    sequence_name: M99660
+    alt_names:
+      - IGHV3-23*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "23"
+    allele_designation: "01"
+
+  - description_id: airr1-103
+    organism: Homo sapiens
+    sequence_name: M35415
+    alt_names:
+      - IGHV3-23*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "23"
+    allele_designation: "02"
+
+  - description_id: airr1-104
+    organism: Homo sapiens
+    sequence_name: AM940223
+    alt_names:
+      - IGHV3-23*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "23"
+    allele_designation: "03"
+
+  - description_id: airr1-105
+    organism: Homo sapiens
+    sequence_name: AC245166
+    alt_names:
+      - IGHV3-23*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "23"
+    allele_designation: "04"
+
+  - description_id: airr1-106
+    organism: Homo sapiens
+    sequence_name: AY757302
+    alt_names:
+      - IGHV3-23*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "23"
+    allele_designation: "05"
+
+  - description_id: airr1-107
+    organism: Homo sapiens
+    sequence_name: AC244492
+    alt_names:
+      - IGHV3-23D*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "23D"
+    allele_designation: "01"
+
+  - description_id: airr1-108
+    organism: Homo sapiens
+    sequence_name: M83134
+    alt_names:
+      - IGHV3-30*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "01"
+
+  - description_id: airr1-109
+    organism: Homo sapiens
+    sequence_name: L26401
+    alt_names:
+      - IGHV3-30*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "02"
+
+  - description_id: airr1-110
+    organism: Homo sapiens
+    sequence_name: M99663
+    alt_names:
+      - IGHV3-30*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "03"
+
+  - description_id: airr1-111
+    organism: Homo sapiens
+    sequence_name: L06615
+    alt_names:
+      - IGHV3-30*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "04"
+
+  - description_id: airr1-112
+    organism: Homo sapiens
+    sequence_name: M77323
+    alt_names:
+      - IGHV3-30*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "05"
+
+  - description_id: airr1-113
+    organism: Homo sapiens
+    sequence_name: L06617
+    alt_names:
+      - IGHV3-30*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "06"
+
+  - description_id: airr1-114
+    organism: Homo sapiens
+    sequence_name: L06614
+    alt_names:
+      - IGHV3-30*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "07"
+
+  - description_id: airr1-115
+    organism: Homo sapiens
+    sequence_name: M62737
+    alt_names:
+      - IGHV3-30*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "08"
+
+  - description_id: airr1-116
+    organism: Homo sapiens
+    sequence_name: M77300
+    alt_names:
+      - IGHV3-30*09
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "09"
+
+  - description_id: airr1-117
+    organism: Homo sapiens
+    sequence_name: M77326
+    alt_names:
+      - IGHV3-30*10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "10"
+
+  - description_id: airr1-118
+    organism: Homo sapiens
+    sequence_name: M77331
+    alt_names:
+      - IGHV3-30*11
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "11"
+
+  - description_id: airr1-119
+    organism: Homo sapiens
+    sequence_name: M77338
+    alt_names:
+      - IGHV3-30*12
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "12"
+
+  - description_id: airr1-120
+    organism: Homo sapiens
+    sequence_name: M77339
+    alt_names:
+      - IGHV3-30*13
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "13"
+
+  - description_id: airr1-121
+    organism: Homo sapiens
+    sequence_name: M77324
+    alt_names:
+      - IGHV3-30*14
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "14"
+
+  - description_id: airr1-122
+    organism: Homo sapiens
+    sequence_name: M77327
+    alt_names:
+      - IGHV3-30*15
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "15"
+
+  - description_id: airr1-123
+    organism: Homo sapiens
+    sequence_name: M77328
+    alt_names:
+      - IGHV3-30*16
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "16"
+
+  - description_id: airr1-124
+    organism: Homo sapiens
+    sequence_name: M77329
+    alt_names:
+      - IGHV3-30*17
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "17"
+
+  - description_id: airr1-125
+    organism: Homo sapiens
+    sequence_name: X92214
+    alt_names:
+      - IGHV3-30*18
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "18"
+
+  - description_id: airr1-126
+    organism: Homo sapiens
+    sequence_name: L06616
+    alt_names:
+      - IGHV3-30*19
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30"
+    allele_designation: "19"
+
+  - description_id: airr1-127
+    organism: Homo sapiens
+    sequence_name: AC244456
+    alt_names:
+      - IGHV3-30-3*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30-3"
+    allele_designation: "01"
+
+  - description_id: airr1-128
+    organism: Homo sapiens
+    sequence_name: M77302
+    alt_names:
+      - IGHV3-30-3*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30-3"
+    allele_designation: "02"
+
+  - description_id: airr1-129
+    organism: Homo sapiens
+    sequence_name: KC713945
+    alt_names:
+      - IGHV3-30-3*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30-3"
+    allele_designation: "03"
+
+  - description_id: airr1-130
+    organism: Homo sapiens
+    sequence_name: AC244456
+    alt_names:
+      - IGHV3-30-5*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30-5"
+    allele_designation: "01"
+
+  - description_id: airr1-131
+    organism: Homo sapiens
+    sequence_name: AC245243
+    alt_names:
+      - IGHV3-30-5*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "30-5"
+    allele_designation: "02"
+
+  - description_id: airr1-132
+    organism: Homo sapiens
+    sequence_name: AB019439
+    alt_names:
+      - IGHV3-33*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "33"
+    allele_designation: "01"
+
+  - description_id: airr1-133
+    organism: Homo sapiens
+    sequence_name: M99665
+    alt_names:
+      - IGHV3-33*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "33"
+    allele_designation: "02"
+
+  - description_id: airr1-134
+    organism: Homo sapiens
+    sequence_name: M77305
+    alt_names:
+      - IGHV3-33*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "33"
+    allele_designation: "03"
+
+  - description_id: airr1-135
+    organism: Homo sapiens
+    sequence_name: M77335
+    alt_names:
+      - IGHV3-33*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "33"
+    allele_designation: "04"
+
+  - description_id: airr1-136
+    organism: Homo sapiens
+    sequence_name: M77334
+    alt_names:
+      - IGHV3-33*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "33"
+    allele_designation: "05"
+
+  - description_id: airr1-137
+    organism: Homo sapiens
+    sequence_name: HM855436
+    alt_names:
+      - IGHV3-33*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "33"
+    allele_designation: "06"
+
+  - description_id: airr1-138
+    organism: Homo sapiens
+    sequence_name: M99672
+    alt_names:
+      - IGHV3-43*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "43"
+    allele_designation: "01"
+
+  - description_id: airr1-139
+    organism: Homo sapiens
+    sequence_name: HM855392
+    alt_names:
+      - IGHV3-43*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "43"
+    allele_designation: "02"
+
+  - description_id: airr1-140
+    organism: Homo sapiens
+    sequence_name: KC713950
+    alt_names:
+      - IGHV3-43D*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "43D"
+    allele_designation: "01"
+
+  - description_id: airr1-141
+    organism: Homo sapiens
+    sequence_name: M99675
+    alt_names:
+      - IGHV3-48*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "48"
+    allele_designation: "01"
+
+  - description_id: airr1-142
+    organism: Homo sapiens
+    sequence_name: AB019438
+    alt_names:
+      - IGHV3-48*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "48"
+    allele_designation: "02"
+
+  - description_id: airr1-143
+    organism: Homo sapiens
+    sequence_name: U03893
+    alt_names:
+      - IGHV3-48*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "48"
+    allele_designation: "03"
+
+  - description_id: airr1-144
+    organism: Homo sapiens
+    sequence_name: HM855336
+    alt_names:
+      - IGHV3-48*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "48"
+    allele_designation: "04"
+
+  - description_id: airr1-145
+    organism: Homo sapiens
+    sequence_name: M99676
+    alt_names:
+      - IGHV3-49*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "49"
+    allele_designation: "01"
+
+  - description_id: airr1-146
+    organism: Homo sapiens
+    sequence_name: M99401
+    alt_names:
+      - IGHV3-49*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "49"
+    allele_designation: "02"
+
+  - description_id: airr1-147
+    organism: Homo sapiens
+    sequence_name: AB019438
+    alt_names:
+      - IGHV3-49*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "49"
+    allele_designation: "03"
+
+  - description_id: airr1-148
+    organism: Homo sapiens
+    sequence_name: AM940220
+    alt_names:
+      - IGHV3-49*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "49"
+    allele_designation: "04"
+
+  - description_id: airr1-149
+    organism: Homo sapiens
+    sequence_name: AM940221
+    alt_names:
+      - IGHV3-49*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "49"
+    allele_designation: "05"
+
+  - description_id: airr1-150
+    organism: Homo sapiens
+    sequence_name: M99679
+    alt_names:
+      - IGHV3-53*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "53"
+    allele_designation: "01"
+
+  - description_id: airr1-151
+    organism: Homo sapiens
+    sequence_name: KF698735
+    alt_names:
+      - IGHV3-53*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "53"
+    allele_designation: "02"
+
+  - description_id: airr1-152
+    organism: Homo sapiens
+    sequence_name: J03617
+    alt_names:
+      - IGHV3-53*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "53"
+    allele_designation: "03"
+
+  - description_id: airr1-153
+    organism: Homo sapiens
+    sequence_name: HM855453
+    alt_names:
+      - IGHV3-53*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "53"
+    allele_designation: "04"
+
+  - description_id: airr1-154
+    organism: Homo sapiens
+    sequence_name: M99682
+    alt_names:
+      - IGHV3-64*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "64"
+    allele_designation: "01"
+
+  - description_id: airr1-155
+    organism: Homo sapiens
+    sequence_name: AB019437
+    alt_names:
+      - IGHV3-64*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "64"
+    allele_designation: "02"
+
+  - description_id: airr1-156
+    organism: Homo sapiens
+    sequence_name: M77298
+    alt_names:
+      - IGHV3-64*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "64"
+    allele_designation: "03"
+
+  - description_id: airr1-157
+    organism: Homo sapiens
+    sequence_name: M77299
+    alt_names:
+      - IGHV3-64*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "64"
+    allele_designation: "04"
+
+  - description_id: airr1-158
+    organism: Homo sapiens
+    sequence_name: M77301
+    alt_names:
+      - IGHV3-64*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "64"
+    allele_designation: "05"
+
+  - description_id: airr1-159
+    organism: Homo sapiens
+    sequence_name: KC713941
+    alt_names:
+      - IGHV3-64D*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "64D"
+    allele_designation: "06"
+
+  - description_id: airr1-160
+    organism: Homo sapiens
+    sequence_name: X92218
+    alt_names:
+      - IGHV3-66*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "66"
+    allele_designation: "01"
+
+  - description_id: airr1-161
+    organism: Homo sapiens
+    sequence_name: Z27504
+    alt_names:
+      - IGHV3-66*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "66"
+    allele_designation: "02"
+
+  - description_id: airr1-162
+    organism: Homo sapiens
+    sequence_name: AB019437
+    alt_names:
+      - IGHV3-66*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "66"
+    allele_designation: "03"
+
+  - description_id: airr1-163
+    organism: Homo sapiens
+    sequence_name: X70208
+    alt_names:
+      - IGHV3-66*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "66"
+    allele_designation: "04"
+
+  - description_id: airr1-164
+    organism: Homo sapiens
+    sequence_name: X92206
+    alt_names:
+      - IGHV3-72*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "72"
+    allele_designation: "01"
+
+  - description_id: airr1-165
+    organism: Homo sapiens
+    sequence_name: Z29979
+    alt_names:
+      - IGHV3-72*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "72"
+    allele_designation: "02"
+
+  - description_id: airr1-166
+    organism: Homo sapiens
+    sequence_name: X70197
+    alt_names:
+      - IGHV3-73*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "73"
+    allele_designation: "01"
+
+  - description_id: airr1-167
+    organism: Homo sapiens
+    sequence_name: AB019437
+    alt_names:
+      - IGHV3-73*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "73"
+    allele_designation: "02"
+
+  - description_id: airr1-168
+    organism: Homo sapiens
+    sequence_name: L33851
+    alt_names:
+      - IGHV3-74*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "74"
+    allele_designation: "01"
+
+  - description_id: airr1-169
+    organism: Homo sapiens
+    sequence_name: Z17392
+    alt_names:
+      - IGHV3-74*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "74"
+    allele_designation: "02"
+
+  - description_id: airr1-170
+    organism: Homo sapiens
+    sequence_name: J00239
+    alt_names:
+      - IGHV3-74*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "74"
+    allele_designation: "03"
+
+  - description_id: airr1-171
+    organism: Homo sapiens
+    sequence_name: HM855939
+    alt_names:
+      - IGHV3-NL1*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "NL1"
+    allele_designation: "01"
+
+  - description_id: airr1-172
+    organism: Homo sapiens
+    sequence_name: X05713
+    alt_names:
+      - IGHV4-4*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "01"
+
+  - description_id: airr1-173
+    organism: Homo sapiens
+    sequence_name: X92232
+    alt_names:
+      - IGHV4-4*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "02"
+
+  - description_id: airr1-174
+    organism: Homo sapiens
+    sequence_name: X92252
+    alt_names:
+      - IGHV4-4*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "03"
+
+  - description_id: airr1-175
+    organism: Homo sapiens
+    sequence_name: X92253
+    alt_names:
+      - IGHV4-4*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "04"
+
+  - description_id: airr1-176
+    organism: Homo sapiens
+    sequence_name: X92254
+    alt_names:
+      - IGHV4-4*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "05"
+
+  - description_id: airr1-177
+    organism: Homo sapiens
+    sequence_name: Z75355
+    alt_names:
+      - IGHV4-4*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "06"
+
+  - description_id: airr1-178
+    organism: Homo sapiens
+    sequence_name: X62112
+    alt_names:
+      - IGHV4-4*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "07"
+
+  - description_id: airr1-179
+    organism: Homo sapiens
+    sequence_name: KC713942
+    alt_names:
+      - IGHV4-4*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "08"
+
+  - description_id: airr1-180
+    organism: Homo sapiens
+    sequence_name: X05714
+    alt_names:
+      - IGHV4-28*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "28"
+    allele_designation: "01"
+
+  - description_id: airr1-181
+    organism: Homo sapiens
+    sequence_name: M83133
+    alt_names:
+      - IGHV4-28*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "28"
+    allele_designation: "02"
+
+  - description_id: airr1-182
+    organism: Homo sapiens
+    sequence_name: X92233
+    alt_names:
+      - IGHV4-28*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "28"
+    allele_designation: "03"
+
+  - description_id: airr1-183
+    organism: Homo sapiens
+    sequence_name: X56358
+    alt_names:
+      - IGHV4-28*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "28"
+    allele_designation: "04"
+
+  - description_id: airr1-184
+    organism: Homo sapiens
+    sequence_name: HM855782
+    alt_names:
+      - IGHV4-28*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "28"
+    allele_designation: "06"
+
+  - description_id: airr1-185
+    organism: Homo sapiens
+    sequence_name: KC713936
+    alt_names:
+      - IGHV4-28*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "28"
+    allele_designation: "07"
+
+  - description_id: airr1-186
+    organism: Homo sapiens
+    sequence_name: L10089
+    alt_names:
+      - IGHV4-30-2*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-2"
+    allele_designation: "01"
+
+  - description_id: airr1-187
+    organism: Homo sapiens
+    sequence_name: M95122
+    alt_names:
+      - IGHV4-30-2*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-2"
+    allele_designation: "02"
+
+  - description_id: airr1-188
+    organism: Homo sapiens
+    sequence_name: X92229
+    alt_names:
+      - IGHV4-30-2*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-2"
+    allele_designation: "03"
+
+  - description_id: airr1-189
+    organism: Homo sapiens
+    sequence_name: Z75351
+    alt_names:
+      - IGHV4-30-2*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-2"
+    allele_designation: "04"
+
+  - description_id: airr1-190
+    organism: Homo sapiens
+    sequence_name: HM855593
+    alt_names:
+      - IGHV4-30-2*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-2"
+    allele_designation: "05"
+
+  - description_id: airr1-191
+    organism: Homo sapiens
+    sequence_name: KC713944
+    alt_names:
+      - IGHV4-30-2*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-2"
+    allele_designation: "06"
+
+  - description_id: airr1-192
+    organism: Homo sapiens
+    sequence_name: Z14238
+    alt_names:
+      - IGHV4-30-4*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-4"
+    allele_designation: "01"
+
+  - description_id: airr1-193
+    organism: Homo sapiens
+    sequence_name: Z14239
+    alt_names:
+      - IGHV4-30-4*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-4"
+    allele_designation: "02"
+
+  - description_id: airr1-194
+    organism: Homo sapiens
+    sequence_name: X92274
+    alt_names:
+      - IGHV4-30-4*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-4"
+    allele_designation: "03"
+
+  - description_id: airr1-195
+    organism: Homo sapiens
+    sequence_name: X92275
+    alt_names:
+      - IGHV4-30-4*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-4"
+    allele_designation: "04"
+
+  - description_id: airr1-196
+    organism: Homo sapiens
+    sequence_name: Z75353
+    alt_names:
+      - IGHV4-30-4*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-4"
+    allele_designation: "05"
+
+  - description_id: airr1-197
+    organism: Homo sapiens
+    sequence_name: Z75360
+    alt_names:
+      - IGHV4-30-4*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-4"
+    allele_designation: "06"
+
+  - description_id: airr1-198
+    organism: Homo sapiens
+    sequence_name: KC713946
+    alt_names:
+      - IGHV4-30-4*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "30-4"
+    allele_designation: "07"
+
+  - description_id: airr1-199
+    organism: Homo sapiens
+    sequence_name: L10098
+    alt_names:
+      - IGHV4-31*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "01"
+
+  - description_id: airr1-200
+    organism: Homo sapiens
+    sequence_name: M99683
+    alt_names:
+      - IGHV4-31*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "02"
+
+  - description_id: airr1-201
+    organism: Homo sapiens
+    sequence_name: Z14237
+    alt_names:
+      - IGHV4-31*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "03"
+
+  - description_id: airr1-202
+    organism: Homo sapiens
+    sequence_name: M95120
+    alt_names:
+      - IGHV4-31*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "04"
+
+  - description_id: airr1-203
+    organism: Homo sapiens
+    sequence_name: M95121
+    alt_names:
+      - IGHV4-31*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "05"
+
+  - description_id: airr1-204
+    organism: Homo sapiens
+    sequence_name: X92270
+    alt_names:
+      - IGHV4-31*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "06"
+
+  - description_id: airr1-205
+    organism: Homo sapiens
+    sequence_name: X92271
+    alt_names:
+      - IGHV4-31*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "07"
+
+  - description_id: airr1-206
+    organism: Homo sapiens
+    sequence_name: X92272
+    alt_names:
+      - IGHV4-31*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "08"
+
+  - description_id: airr1-207
+    organism: Homo sapiens
+    sequence_name: X92273
+    alt_names:
+      - IGHV4-31*09
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "09"
+
+  - description_id: airr1-208
+    organism: Homo sapiens
+    sequence_name: Z14235
+    alt_names:
+      - IGHV4-31*10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "31"
+    allele_designation: "10"
+
+  - description_id: airr1-209
+    organism: Homo sapiens
+    sequence_name: AB019439
+    alt_names:
+      - IGHV4-34*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "01"
+
+  - description_id: airr1-210
+    organism: Homo sapiens
+    sequence_name: M99684
+    alt_names:
+      - IGHV4-34*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "02"
+
+  - description_id: airr1-211
+    organism: Homo sapiens
+    sequence_name: X92255
+    alt_names:
+      - IGHV4-34*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "03"
+
+  - description_id: airr1-212
+    organism: Homo sapiens
+    sequence_name: X92236
+    alt_names:
+      - IGHV4-34*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "04"
+
+  - description_id: airr1-213
+    organism: Homo sapiens
+    sequence_name: X92237
+    alt_names:
+      - IGHV4-34*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "05"
+
+  - description_id: airr1-214
+    organism: Homo sapiens
+    sequence_name: X92256
+    alt_names:
+      - IGHV4-34*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "06"
+
+  - description_id: airr1-215
+    organism: Homo sapiens
+    sequence_name: X92258
+    alt_names:
+      - IGHV4-34*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "07"
+
+  - description_id: airr1-216
+    organism: Homo sapiens
+    sequence_name: M95113
+    alt_names:
+      - IGHV4-34*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "08"
+
+  - description_id: airr1-217
+    organism: Homo sapiens
+    sequence_name: Z14241
+    alt_names:
+      - IGHV4-34*09
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "09"
+
+  - description_id: airr1-218
+    organism: Homo sapiens
+    sequence_name: Z14242
+    alt_names:
+      - IGHV4-34*10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "10"
+
+  - description_id: airr1-219
+    organism: Homo sapiens
+    sequence_name: X05716
+    alt_names:
+      - IGHV4-34*11
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "11"
+
+  - description_id: airr1-220
+    organism: Homo sapiens
+    sequence_name: X56591
+    alt_names:
+      - IGHV4-34*12
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "12"
+
+  - description_id: airr1-221
+    organism: Homo sapiens
+    sequence_name: Z75356
+    alt_names:
+      - IGHV4-34*13
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "34"
+    allele_designation: "13"
+
+  - description_id: airr1-222
+    organism: Homo sapiens
+    sequence_name: Z12367
+    alt_names:
+      - IGHV4-38-2*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "38-2"
+    allele_designation: "01"
+
+  - description_id: airr1-223
+    organism: Homo sapiens
+    sequence_name: AC233755
+    alt_names:
+      - IGHV4-38-2*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "38-2"
+    allele_designation: "02"
+
+  - description_id: airr1-224
+    organism: Homo sapiens
+    sequence_name: AB019439
+    alt_names:
+      - IGHV4-39*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "39"
+    allele_designation: "01"
+
+  - description_id: airr1-225
+    organism: Homo sapiens
+    sequence_name: X05715
+    alt_names:
+      - IGHV4-39*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "39"
+    allele_designation: "02"
+
+  - description_id: airr1-226
+    organism: Homo sapiens
+    sequence_name: X92259
+    alt_names:
+      - IGHV4-39*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "39"
+    allele_designation: "03"
+
+  - description_id: airr1-227
+    organism: Homo sapiens
+    sequence_name: X92297
+    alt_names:
+      - IGHV4-39*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "39"
+    allele_designation: "04"
+
+  - description_id: airr1-228
+    organism: Homo sapiens
+    sequence_name: M95116
+    alt_names:
+      - IGHV4-39*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "39"
+    allele_designation: "05"
+
+  - description_id: airr1-229
+    organism: Homo sapiens
+    sequence_name: Z14236
+    alt_names:
+      - IGHV4-39*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "39"
+    allele_designation: "06"
+
+  - description_id: airr1-230
+    organism: Homo sapiens
+    sequence_name: AM940222
+    alt_names:
+      - IGHV4-39*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "39"
+    allele_designation: "07"
+
+  - description_id: airr1-231
+    organism: Homo sapiens
+    sequence_name: AB019438
+    alt_names:
+      - IGHV4-59*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "01"
+
+  - description_id: airr1-232
+    organism: Homo sapiens
+    sequence_name: M29812
+    alt_names:
+      - IGHV4-59*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "02"
+
+  - description_id: airr1-233
+    organism: Homo sapiens
+    sequence_name: M95114
+    alt_names:
+      - IGHV4-59*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "03"
+
+  - description_id: airr1-234
+    organism: Homo sapiens
+    sequence_name: M95117
+    alt_names:
+      - IGHV4-59*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "04"
+
+  - description_id: airr1-235
+    organism: Homo sapiens
+    sequence_name: M95118
+    alt_names:
+      - IGHV4-59*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "05"
+
+  - description_id: airr1-236
+    organism: Homo sapiens
+    sequence_name: M95119
+    alt_names:
+      - IGHV4-59*06
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "06"
+
+  - description_id: airr1-237
+    organism: Homo sapiens
+    sequence_name: X56360
+    alt_names:
+      - IGHV4-59*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "07"
+
+  - description_id: airr1-238
+    organism: Homo sapiens
+    sequence_name: HM855471
+    alt_names:
+      - IGHV4-59*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "08"
+
+  - description_id: airr1-239
+    organism: Homo sapiens
+    sequence_name: Z75359
+    alt_names:
+      - IGHV4-59*09
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "09"
+
+  - description_id: airr1-240
+    organism: Homo sapiens
+    sequence_name: Z14243
+    alt_names:
+      - IGHV4-59*10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "59"
+    allele_designation: "10"
+
+  - description_id: airr1-241
+    organism: Homo sapiens
+    sequence_name: M29811
+    alt_names:
+      - IGHV4-61*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "61"
+    allele_designation: "01"
+
+  - description_id: airr1-242
+    organism: Homo sapiens
+    sequence_name: L10097
+    alt_names:
+      - IGHV4-61*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "61"
+    allele_designation: "02"
+
+  - description_id: airr1-243
+    organism: Homo sapiens
+    sequence_name: X92230
+    alt_names:
+      - IGHV4-61*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "61"
+    allele_designation: "03"
+
+  - description_id: airr1-244
+    organism: Homo sapiens
+    sequence_name: X92250
+    alt_names:
+      - IGHV4-61*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "61"
+    allele_designation: "04"
+
+  - description_id: airr1-245
+    organism: Homo sapiens
+    sequence_name: X56356
+    alt_names:
+      - IGHV4-61*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "61"
+    allele_designation: "05"
+
+  - description_id: airr1-246
+    organism: Homo sapiens
+    sequence_name: Z75348
+    alt_names:
+      - IGHV4-61*07
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "61"
+    allele_designation: "07"
+
+  - description_id: airr1-247
+    organism: Homo sapiens
+    sequence_name: AB019437
+    alt_names:
+      - IGHV4-61*08
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "61"
+    allele_designation: "08"
+
+  - description_id: airr1-248
+    organism: Homo sapiens
+    sequence_name: X92227
+    alt_names:
+      - IGHV5-10-1*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "10-1"
+    allele_designation: "01"
+
+  - description_id: airr1-249
+    organism: Homo sapiens
+    sequence_name: X92279
+    alt_names:
+      - IGHV5-10-1*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "10-1"
+    allele_designation: "02"
+
+  - description_id: airr1-250
+    organism: Homo sapiens
+    sequence_name: X56375
+    alt_names:
+      - IGHV5-10-1*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "10-1"
+    allele_designation: "03"
+
+  - description_id: airr1-251
+    organism: Homo sapiens
+    sequence_name: X56376
+    alt_names:
+      - IGHV5-10-1*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "10-1"
+    allele_designation: "04"
+
+  - description_id: airr1-252
+    organism: Homo sapiens
+    sequence_name: M99686
+    alt_names:
+      - IGHV5-51*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "51"
+    allele_designation: "01"
+
+  - description_id: airr1-253
+    organism: Homo sapiens
+    sequence_name: M18806
+    alt_names:
+      - IGHV5-51*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "51"
+    allele_designation: "02"
+
+  - description_id: airr1-254
+    organism: Homo sapiens
+    sequence_name: X56368
+    alt_names:
+      - IGHV5-51*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "51"
+    allele_designation: "03"
+
+  - description_id: airr1-255
+    organism: Homo sapiens
+    sequence_name: X56367
+    alt_names:
+      - IGHV5-51*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "51"
+    allele_designation: "04"
+
+  - description_id: airr1-256
+    organism: Homo sapiens
+    sequence_name: Z27449
+    alt_names:
+      - IGHV5-51*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "51"
+    allele_designation: "05"
+
+  - description_id: airr1-257
+    organism: Homo sapiens
+    sequence_name: J04097
+    alt_names:
+      - IGHV6-1*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "1"
+    allele_designation: "01"
+
+  - description_id: airr1-258
+    organism: Homo sapiens
+    sequence_name: Z14223
+    alt_names:
+      - IGHV6-1*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "1"
+    allele_designation: "02"
+
+  - description_id: airr1-259
+    organism: Homo sapiens
+    sequence_name: L10057
+    alt_names:
+      - IGHV7-4-1*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation: "4-1"
+    allele_designation: "01"
+
+  - description_id: airr1-260
+    organism: Homo sapiens
+    sequence_name: X62110
+    alt_names:
+      - IGHV7-4-1*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation: "4-1"
+    allele_designation: "02"
+
+  - description_id: airr1-261
+    organism: Homo sapiens
+    sequence_name: X92290
+    alt_names:
+      - IGHV7-4-1*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation: "4-1"
+    allele_designation: "03"
+
+  - description_id: airr1-262
+    organism: Homo sapiens
+    sequence_name: HM855485
+    alt_names:
+      - IGHV7-4-1*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation: "4-1"
+    allele_designation: "04"
+
+  - description_id: airr1-263
+    organism: Homo sapiens
+    sequence_name: HM855361
+    alt_names:
+      - IGHV7-4-1*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation: "4-1"
+    allele_designation: "05"
+
+  # D genes
+  - description_id: airr2-1
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD1-1*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D1"
+    subgroup_designation: "1"
+    allele_designation: "01"
+
+  - description_id: airr2-2
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD1-7*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D1"
+    subgroup_designation: "7"
+    allele_designation: "01"
+
+  - description_id: airr2-3
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD1-20*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D1"
+    subgroup_designation: "20"
+    allele_designation: "01"
+
+  - description_id: airr2-4
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD1-26*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D1"
+    subgroup_designation: "26"
+    allele_designation: "01"
+
+  - description_id: airr2-5
+    organism: Homo sapiens
+    sequence_name: J00232
+    alt_names:
+      - IGHD2-2*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "2"
+    allele_designation: "01"
+
+  - description_id: airr2-6
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD2-2*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "2"
+    allele_designation: "02"
+
+  - description_id: airr2-7
+    organism: Homo sapiens
+    sequence_name: M35648
+    alt_names:
+      - IGHD2-2*03
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "2"
+    allele_designation: "03"
+
+  - description_id: airr2-8
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD2-8*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "8"
+    allele_designation: "01"
+
+  - description_id: airr2-9
+    organism: Homo sapiens
+    sequence_name: J00233
+    alt_names:
+      - IGHD2-8*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "8"
+    allele_designation: "02"
+
+  - description_id: airr2-10
+    organism: Homo sapiens
+    sequence_name: J00234
+    alt_names:
+      - IGHD2-15*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "15"
+    allele_designation: "01"
+
+  - description_id: airr2-11
+    organism: Homo sapiens
+    sequence_name: J00235
+    alt_names:
+      - IGHD2-21*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "21"
+    allele_designation: "01"
+
+  - description_id: airr2-12
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD2-21*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D2"
+    subgroup_designation: "21"
+    allele_designation: "02"
+
+  - description_id: airr2-13
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD3-3*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "3"
+    allele_designation: "01"
+
+  - description_id: airr2-14
+    organism: Homo sapiens
+    sequence_name: X93618
+    alt_names:
+      - IGHD3-3*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "3"
+    allele_designation: "02"
+
+  - description_id: airr2-15
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD3-9*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "9"
+    allele_designation: "01"
+
+  - description_id: airr2-16
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD3-10*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "10"
+    allele_designation: "01"
+
+  - description_id: airr2-17
+    organism: Homo sapiens
+    sequence_name: X93615
+    alt_names:
+      - IGHD3-10*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "10"
+    allele_designation: "02"
+
+  - description_id: airr2-18
+    organism: Homo sapiens
+    sequence_name: X93614
+    alt_names:
+      - IGHD3-16*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "16"
+    allele_designation: "01"
+
+  - description_id: airr2-19
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD3-16*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "16"
+    allele_designation: "02"
+
+  - description_id: airr2-20
+    organism: Homo sapiens
+    sequence_name: X93616
+    alt_names:
+      - IGHD3-22*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D3"
+    subgroup_designation: "22"
+    allele_designation: "01"
+
+  - description_id: airr2-21
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD4-4*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D4"
+    subgroup_designation: "4"
+    allele_designation: "01"
+
+  - description_id: airr2-22
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD4-17*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D4"
+    subgroup_designation: "17"
+    allele_designation: "01"
+
+  - description_id: airr2-23
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD5-5*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D5"
+    subgroup_designation: "5"
+    allele_designation: "01"
+
+  - description_id: airr2-24
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD5-12*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D5"
+    subgroup_designation: "12"
+    allele_designation: "01"
+
+  - description_id: airr2-25
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD5-18*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D5"
+    subgroup_designation: "18"
+    allele_designation: "01"
+
+  - description_id: airr2-26
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD6-6*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D6"
+    subgroup_designation: "6"
+    allele_designation: "01"
+
+  - description_id: airr2-27
+    organism: Homo sapiens
+    sequence_name: X13972
+    alt_names:
+      - IGHD6-13*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D6"
+    subgroup_designation: "13"
+    allele_designation: "01"
+
+  - description_id: airr2-28
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD6-19*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D6"
+    subgroup_designation: "19"
+    allele_designation: "01"
+
+  - description_id: airr2-29
+    organism: Homo sapiens
+    sequence_name: X97051
+    alt_names:
+      - IGHD6-25*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D6"
+    subgroup_designation: "25"
+    allele_designation: "01"
+
+  - description_id: airr2-30
+    organism: Homo sapiens
+    sequence_name: J00256
+    alt_names:
+      - IGHD7-27*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "D7"
+    subgroup_designation: "27"
+    allele_designation: "01"
+
+  # J genes
+  - description_id: airr3-1
+    organism: Homo sapiens
+    sequence_name: J00256
+    alt_names:
+      - IGHJ1*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr3-2
+    organism: Homo sapiens
+    sequence_name: J00256
+    alt_names:
+      - IGHJ2*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr3-3
+    organism: Homo sapiens
+    sequence_name: J00256
+    alt_names:
+      - IGHJ3*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr3-4
+    organism: Homo sapiens
+    sequence_name: X86355
+    alt_names:
+      - IGHJ3*02
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: 
+    allele_designation: "02"
+
+  - description_id: airr3-5
+    organism: Homo sapiens
+    sequence_name: J00256
+    alt_names:
+      - IGHJ4*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr3-6
+    organism: Homo sapiens
+    sequence_name: X86355
+    alt_names:
+      - IGHJ4*02
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: 
+    allele_designation: "02"
+
+  - description_id: airr3-7
+    organism: Homo sapiens
+    sequence_name: M25625
+    alt_names:
+      - IGHJ4*03
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: 
+    allele_designation: "03"
+
+  - description_id: airr3-8
+    organism: Homo sapiens
+    sequence_name: J00256
+    alt_names:
+      - IGHJ5*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr3-9
+    organism: Homo sapiens
+    sequence_name: X86355
+    alt_names:
+      - IGHJ5*02
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: 
+    allele_designation: "02"
+
+  - description_id: airr3-10
+    organism: Homo sapiens
+    sequence_name: J00256
+    alt_names:
+      - IGHJ6*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr3-11
+    organism: Homo sapiens
+    sequence_name: X86355
+    alt_names:
+      - IGHJ6*02
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: 
+    allele_designation: "02"
+
+  - description_id: airr3-12
+    organism: Homo sapiens
+    sequence_name: X86356
+    alt_names:
+      - IGHJ6*03
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: 
+    allele_designation: "03"
+
+  - description_id: airr3-13
+    organism: Homo sapiens
+    sequence_name: AJ879487
+    alt_names:
+      - IGHJ6*04
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: 
+    allele_designation: "04"
+
+#
+# Delineation annotation for V genes
+#
+
+#
+# Delineation annotation for D genes
+#
+
+#
+# Delineation annotation for J genes
+#
+
+Gene_Delineation_J:
+  - description_id: 0d967b981283
+    gene_name: J00256
+    delineation_scheme: IMGT
+    j_start: 
+    j_end:
+    cdr3_end: 28
+  - description_id: f48a1fe21327
+    gene_name: X86355
+    delineation_scheme: IMGT
+    j_start: 
+    j_end:
+    cdr3_end: 28
+  - description_id: 66ec02856f50
+    gene_name: X86356
+    delineation_scheme: IMGT
+    j_start: 
+    j_end:
+    cdr3_end: 28
+  - description_id: 850594994884
+    gene_name: AJ879487
+    delineation_scheme: IMGT
+    j_start: 
+    j_end:
+    cdr3_end: 28
