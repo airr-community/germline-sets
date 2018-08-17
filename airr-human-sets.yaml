@@ -1,0 +1,109 @@
+#
+# Germline sets for Homo sapiens
+#
+# Copyright (c) 2018 AIRR Community of the Antibody Society
+# Date: August 17, 2018
+# https://www.antibodysociety.org/airrc/
+#
+# This work is licensed under the 
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# http://creativecommons.org/licenses/by-sa/4.0/
+#
+# This work is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+# NOTE: This file is currently hand-maintained.
+
+Germline_Set:
+  - germline_set_name: AIRR Human IGH
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for human immunoglobulin heavy chain locus
+    release_date: null
+    pub_ids: null
+    organism: Homo sapiens
+    strain: null
+    notes: null
+    gene_descriptions:
+
+  - germline_set_name: AIRR Human IGK
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for human immunoglobulin kappa locus
+    release_date: null
+    pub_ids: null
+    organism: Homo sapiens
+    strain: null
+    notes: null
+    gene_descriptions:
+
+  - germline_set_name: AIRR Human IGL
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for human immunoglobulin light chain
+    release_date: null
+    pub_ids: null
+    organism: Homo sapiens
+    strain: null
+    notes: null
+    gene_descriptions:
+
+  - germline_set_name: AIRR Human TRA
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for human T-cell receptor alpha locus
+    release_date: null
+    pub_ids: null
+    organism: Homo sapiens
+    strain: null
+    notes: null
+    gene_descriptions:
+
+  - germline_set_name: AIRR Human TRB
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for human T-cell receptor beta locus
+    release_date: null
+    pub_ids: null
+    organism: Homo sapiens
+    strain: null
+    notes: null
+    gene_descriptions:
+
+  - germline_set_name: AIRR Human TRD
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for human T-cell receptor delta locus
+    release_date: null
+    pub_ids: null
+    organism: Homo sapiens
+    strain: null
+    notes: null
+    gene_descriptions:
+
+  - germline_set_name: AIRR Human TRG
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for human T-cell receptor gamma locus
+    release_date: null
+    pub_ids: null
+    organism: Homo sapiens
+    strain: null
+    notes: null
+    gene_descriptions:
