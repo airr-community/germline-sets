@@ -1,0 +1,793 @@
+#
+# Homo sapiens IGK locus
+#
+# Copyright (c) 2018 AIRR Community of the Antibody Society
+# Date: August 17, 2018
+# https://www.antibodysociety.org/airrc/
+#
+# This file is part of the AIRR Community germline annotation
+#
+# This work is licensed under the 
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# http://creativecommons.org/licenses/by-sa/4.0/
+#
+# This work is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+# NOTE: This file is currently hand-maintained.
+
+Info:
+  description: Homo sapiens IGK locus
+  version:
+  url:
+  id_designation: airr
+  id_group:
+    - 4
+    - 5
+  id_number:
+    - 64
+    - 5
+
+Gene_Description:
+  # V genes
+  - description_id: airr4-1
+    organism: Homo sapiens
+    sequence_name: Z00001
+    imgt_name: IGKV1-5*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "5"
+    allele_designation: "01"
+
+  - description_id: airr4-2
+    organism: Homo sapiens
+    sequence_name: M23851
+    imgt_name: IGKV1-5*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "5"
+    allele_designation: "02"
+
+  - description_id: airr4-3
+    organism: Homo sapiens
+    sequence_name: X72813
+    imgt_name: IGKV1-5*03
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "5"
+    allele_designation: "03"
+
+  - description_id: airr4-4
+    organism: Homo sapiens
+    sequence_name: M64858
+    imgt_name: IGKV1-6*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "6"
+    allele_designation: "01"
+
+  - description_id: airr4-5
+    organism: Homo sapiens
+    sequence_name: KM455558
+    imgt_name: IGKV1-6*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "6"
+    allele_designation: "02"
+
+  - description_id: airr4-6
+    organism: Homo sapiens
+    sequence_name: Z00014
+    imgt_name: IGKV1-8*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "8"
+    allele_designation: "01"
+
+  - description_id: airr4-7
+    organism: Homo sapiens
+    sequence_name: Z00013
+    imgt_name: IGKV1-9*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "9"
+    allele_designation: "01"
+
+  - description_id: airr4-8
+    organism: Homo sapiens
+    sequence_name: V01577
+    imgt_name: IGKV1-12*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "12"
+    allele_designation: "01"
+
+  - description_id: airr4-9
+    organism: Homo sapiens
+    sequence_name: V01576
+    imgt_name: IGKV1-12*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "12"
+    allele_designation: "02"
+
+  - description_id: airr4-10
+    organism: Homo sapiens
+    sequence_name: Z00006
+    imgt_name: IGKV1-13*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "13"
+    allele_designation: "02"
+
+  - description_id: airr4-11
+    organism: Homo sapiens
+    sequence_name: J00248
+    imgt_name: IGKV1-16*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "16"
+    allele_designation: "01"
+
+  - description_id: airr4-12
+    organism: Homo sapiens
+    sequence_name: X72808
+    imgt_name: IGKV1-17*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "17"
+    allele_designation: "01"
+
+  - description_id: airr4-13
+    organism: Homo sapiens
+    sequence_name: D88255
+    imgt_name: IGKV1-17*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "17"
+    allele_designation: "02"
+
+  - description_id: airr4-14
+    organism: Homo sapiens
+    sequence_name: KM455566
+    imgt_name: IGKV1-17*03
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "17"
+    allele_designation: "03"
+
+  - description_id: airr4-15
+    organism: Homo sapiens
+    sequence_name: X63398
+    imgt_name: IGKV1-27*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "27"
+    allele_designation: "01"
+
+  - description_id: airr4-16
+    organism: Homo sapiens
+    sequence_name: M64856
+    imgt_name: IGKV1-33*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "33"
+    allele_designation: "01"
+
+  - description_id: airr4-17
+    organism: Homo sapiens
+    sequence_name: X59315
+    imgt_name: IGKV1-39*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "39"
+    allele_designation: "01"
+
+  - description_id: airr4-18
+    organism: Homo sapiens
+    sequence_name: Y14865
+    imgt_name: IGKV1-NL1*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "NL1"
+    allele_designation: "01"
+
+  - description_id: airr4-19
+    organism: Homo sapiens
+    sequence_name: Z00008
+    imgt_name: IGKV1D-8*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "8"
+    allele_designation: "01"
+
+  - description_id: airr4-20
+    organism: Homo sapiens
+    sequence_name: KM455563
+    imgt_name: IGKV1D-8*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "8"
+    allele_designation: "02"
+
+  - description_id: airr4-21
+    organism: Homo sapiens
+    sequence_name: KM455567
+    imgt_name: IGKV1D-8*03
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "8"
+    allele_designation: "03"
+
+  - description_id: airr4-22
+    organism: Homo sapiens
+    sequence_name: X17263
+    imgt_name: IGKV1D-12*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "12"
+    allele_designation: "01"
+
+  - description_id: airr4-23
+    organism: Homo sapiens
+    sequence_name: V01576
+    imgt_name: IGKV1D-12*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "12"
+    allele_designation: "02"
+
+  - description_id: airr4-24
+    organism: Homo sapiens
+    sequence_name: X17262
+    imgt_name: IGKV1D-13*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "13"
+    allele_designation: "01"
+
+  - description_id: airr4-25
+    organism: Homo sapiens
+    sequence_name: KM455562
+    imgt_name: IGKV1D-13*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "13"
+    allele_designation: "02"
+
+  - description_id: airr4-26
+    organism: Homo sapiens
+    sequence_name: K01323
+    imgt_name: IGKV1D-16*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "16"
+    allele_designation: "01"
+
+  - description_id: airr4-27
+    organism: Homo sapiens
+    sequence_name: V00558
+    imgt_name: IGKV1D-16*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "16"
+    allele_designation: "02"
+
+  - description_id: airr4-28
+    organism: Homo sapiens
+    sequence_name: X63392
+    imgt_name: IGKV1D-17*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "17"
+    allele_designation: "01"
+
+  - description_id: airr4-29
+    organism: Homo sapiens
+    sequence_name: M64855
+    imgt_name: IGKV1D-33*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "33"
+    allele_designation: "01"
+
+  - description_id: airr4-30
+    organism: Homo sapiens
+    sequence_name: X59312
+    imgt_name: IGKV1D-39*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "39"
+    allele_designation: "01"
+
+  - description_id: airr4-31
+    organism: Homo sapiens
+    sequence_name: X72817
+    imgt_name: IGKV1D-43*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "1D"
+    subgroup_designation: "43"
+    allele_designation: "01"
+
+  - description_id: airr4-32
+    organism: Homo sapiens
+    sequence_name: X12684
+    imgt_name: IGKV2-24*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "24"
+    allele_designation: "01"
+
+  - description_id: airr4-33
+    organism: Homo sapiens
+    sequence_name: X63397
+    imgt_name: IGKV2-28*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "28"
+    allele_designation: "01"
+
+  - description_id: airr4-34
+    organism: Homo sapiens
+    sequence_name: U41645
+    imgt_name: IGKV2-29*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "29"
+    allele_designation: "02"
+
+  - description_id: airr4-35
+    organism: Homo sapiens
+    sequence_name: AJ783437
+    imgt_name: IGKV2-29*03
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "29"
+    allele_designation: "03"
+
+  - description_id: airr4-36
+    organism: Homo sapiens
+    sequence_name: X63403
+    imgt_name: IGKV2-30*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "30"
+    allele_designation: "01"
+
+  - description_id: airr4-37
+    organism: Homo sapiens
+    sequence_name: X59314
+    imgt_name: IGKV2-40*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "40"
+    allele_designation: "01"
+
+  - description_id: airr4-38
+    organism: Homo sapiens
+    sequence_name: X59317
+    imgt_name: IGKV2-40*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "40"
+    allele_designation: "02"
+
+  - description_id: airr4-39
+    organism: Homo sapiens
+    sequence_name: AP001216
+    imgt_name: IGKV2D-26*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "26"
+    allele_designation: "01"
+
+  - description_id: airr4-40
+    organism: Homo sapiens
+    sequence_name: Z27499
+    imgt_name: IGKV2D-26*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "26"
+    allele_designation: "02"
+
+  - description_id: airr4-41
+    organism: Homo sapiens
+    sequence_name: KM455565
+    imgt_name: IGKV2D-26*03
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "26"
+    allele_designation: "03"
+
+  - description_id: airr4-42
+    organism: Homo sapiens
+    sequence_name: X12691
+    imgt_name: IGKV2D-28*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "28"
+    allele_designation: "01"
+
+  - description_id: airr4-43
+    organism: Homo sapiens
+    sequence_name: M31952
+    imgt_name: IGKV2D-29*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "29"
+    allele_designation: "01"
+
+  - description_id: airr4-44
+    organism: Homo sapiens
+    sequence_name: U41644
+    imgt_name: IGKV2D-29*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "29"
+    allele_designation: "02"
+
+  - description_id: airr4-45
+    organism: Homo sapiens
+    sequence_name: X63402
+    imgt_name: IGKV2D-30*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "30"
+    allele_designation: "01"
+
+  - description_id: airr4-46
+    organism: Homo sapiens
+    sequence_name: X59311
+    imgt_name: IGKV2D-40*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "2D"
+    subgroup_designation: "40"
+    allele_designation: "01"
+
+  - description_id: airr4-47
+    organism: Homo sapiens
+    sequence_name: X01668
+    imgt_name: IGKV3-11*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "11"
+    allele_designation: "01"
+
+  - description_id: airr4-48
+    organism: Homo sapiens
+    sequence_name: K02768
+    imgt_name: IGKV3-11*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "11"
+    allele_designation: "02"
+
+  - description_id: airr4-49
+    organism: Homo sapiens
+    sequence_name: M23090
+    imgt_name: IGKV3-15*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "15"
+    allele_designation: "01"
+
+  - description_id: airr4-50
+    organism: Homo sapiens
+    sequence_name: X12686
+    imgt_name: IGKV3-20*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "20"
+    allele_designation: "01"
+
+  - description_id: airr4-51
+    organism: Homo sapiens
+    sequence_name: L37729
+    imgt_name: IGKV3-20*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "20"
+    allele_designation: "02"
+
+  - description_id: airr4-52
+    organism: Homo sapiens
+    sequence_name: X72820
+    imgt_name: IGKV3D-7*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3D"
+    subgroup_designation: "7"
+    allele_designation: "01"
+
+  - description_id: airr4-53
+    organism: Homo sapiens
+    sequence_name: X17264
+    imgt_name: IGKV3D-11*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3D"
+    subgroup_designation: "11"
+    allele_designation: "01"
+
+  - description_id: airr4-54
+    organism: Homo sapiens
+    sequence_name: KM455561
+    imgt_name: IGKV3D-11*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3D"
+    subgroup_designation: "11"
+    allele_designation: "02"
+
+  - description_id: airr4-55
+    organism: Homo sapiens
+    sequence_name: L19271
+    imgt_name: IGKV3D-11*03
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3D"
+    subgroup_designation: "11"
+    allele_designation: "03"
+
+  - description_id: airr4-56
+    organism: Homo sapiens
+    sequence_name: X72815
+    imgt_name: IGKV3D-15*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3D"
+    subgroup_designation: "15"
+    allele_designation: "01"
+
+  - description_id: airr4-57
+    organism: Homo sapiens
+    sequence_name: KM455564
+    imgt_name: IGKV3D-15*03
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3D"
+    subgroup_designation: "15"
+    allele_designation: "03"
+
+  - description_id: airr4-58
+    organism: Homo sapiens
+    sequence_name: X12687
+    imgt_name: IGKV3D-20*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "3D"
+    subgroup_designation: "20"
+    allele_designation: "01"
+
+  - description_id: airr4-59
+    organism: Homo sapiens
+    sequence_name: Z00023
+    imgt_name: IGKV4-1*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "1"
+    allele_designation: "01"
+
+  - description_id: airr4-60
+    organism: Homo sapiens
+    sequence_name: X02485
+    imgt_name: IGKV5-2*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "2"
+    allele_designation: "01"
+
+  - description_id: airr4-61
+    organism: Homo sapiens
+    sequence_name: X63399
+    imgt_name: IGKV6-21*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "21"
+    allele_designation: "01"
+
+  - description_id: airr4-62
+    organism: Homo sapiens
+    sequence_name: KM455568
+    imgt_name: IGKV6-21*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "21"
+    allele_designation: "02"
+
+  - description_id: airr4-63
+    organism: Homo sapiens
+    sequence_name: X12683
+    imgt_name: IGKV6D-21*01
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "6D"
+    subgroup_designation: "21"
+    allele_designation: "01"
+
+  - description_id: airr4-64
+    organism: Homo sapiens
+    sequence_name: KM455569
+    imgt_name: IGKV6D-21*02
+    locus: IGK
+    domain: V
+    functional: true
+    gene_subgroup: "6D"
+    subgroup_designation: "21"
+    allele_designation: "02"
+
+  # J genes
+  - description_id: airr5-1
+    organism: Homo sapiens
+    sequence_name: J00242
+    imgt_name: IGKJ1*01
+    locus: IGK
+    domain: J
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation: "01"
+
+  - description_id: airr5-2
+    organism: Homo sapiens
+    sequence_name: J00242
+    imgt_name: IGKJ2*01
+    locus: IGK
+    domain: J
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation: "01"
+
+  - description_id: airr5-3
+    organism: Homo sapiens
+    sequence_name: J00242
+    imgt_name: IGKJ3*01
+    locus: IGK
+    domain: J
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation: "01"
+
+  - description_id: airr5-4
+    organism: Homo sapiens
+    sequence_name: J00242
+    imgt_name: IGKJ4*01
+    locus: IGK
+    domain: J
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation: "01"
+
+  - description_id: airr5-5
+    organism: Homo sapiens
+    sequence_name: J00242
+    imgt_name: IGKJ5*01
+    locus: IGK
+    domain: J
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation: "01"
