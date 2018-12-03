@@ -1,0 +1,3229 @@
+#
+# Rhesus monkey IGH locus
+#
+# This file is part of the AIRR Community germline annotation
+#
+# AIRR Community of the Antibody Society
+# https://www.antibodysociety.org/airrc/
+#
+# Copyright (C) 2018: The Authors
+#
+# Authors: Scott Christley
+# Created: November 29, 2018
+#
+# This work is licensed under the 
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# http://creativecommons.org/licenses/by-sa/4.0/
+#
+# This work is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+# NOTE: This file is currently hand-maintained.
+
+#
+# for creating unique description_id
+# combine id_designation, id_group and id_number
+# id_group is V=1, D=2, J=3
+# id_number is last sequential number used, increment when adding genes
+#
+Info:
+  description: Rhesus monkey IGH locus
+  version:
+  url:
+  id_designation: airr-rm
+  id_group:
+    - 1
+    - 2
+    - 3
+  id_number:
+    - 197
+    - 83
+    - 10
+
+Gene_Description:
+  # V genes
+  - description_id: airr-rm1-1
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-AAU*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "AAU"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-2
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-AAU*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "AAU"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-3
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-ABW*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "ABW"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-4
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-AFG*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "AFG"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-5
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-Kc
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "Kc"
+    allele_designation:
+
+  - description_id: airr-rm1-6
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-Kl
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "Kl"
+    allele_designation:
+
+  - description_id: airr-rm1-7
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-Korf4
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "Korf4"
+    allele_designation:
+
+  - description_id: airr-rm1-8
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV1-Korf5
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "Korf5"
+    allele_designation:
+
+  - description_id: airr-rm1-9
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.105
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-10
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.124
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-11
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.138
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-12
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.138.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-13
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.142
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-14
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.170
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-15
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.193
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-16
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.58
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-17
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.58.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-18
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.60
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-19
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.84
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-20
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV1.84.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-21
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV2-ABU*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "ABU"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-22
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV2-ABG*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "ABG"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-23
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV2-ACK*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "ACK"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-24
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV2-AEI*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "AEI"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-25
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV2-Korf1
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "Korf1"
+    allele_designation:
+
+  - description_id: airr-rm1-26
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV2-S3
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "S3"
+    allele_designation:
+
+  - description_id: airr-rm1-27
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV2.118
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-28
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV2.173
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-29
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV2.69
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-30
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV2.69.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-31
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV2.7.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-32
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ABH*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ABH"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-33
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ABH*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ABH"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-34
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ABH*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ABH"
+    allele_designation: "03"
+
+  - description_id: airr-rm1-35
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ABJ*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ABJ"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-36
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ABY*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ABY"
+    allele_designation: "03"
+
+  - description_id: airr-rm1-37
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ACI*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ACI"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-38
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ACN*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ACN"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-39
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ACZ*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ACZ"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-40
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ACZ*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ACZ"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-41
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ACZ*04
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ACZ"
+    allele_designation: "04"
+
+  - description_id: airr-rm1-42
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADF*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADF"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-43
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADL*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADL"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-44
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADM*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADM"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-45
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADN*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADN"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-46
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADO*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADO"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-47
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADR*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADR"
+    allele_designation: "03"
+
+  - description_id: airr-rm1-48
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADU*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADU"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-49
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADU*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADU"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-50
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADU*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADU"
+    allele_designation: "03"
+
+  - description_id: airr-rm1-51
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADW*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADW"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-52
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADW*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADW"
+    allele_designation: "03"
+
+  - description_id: airr-rm1-53
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADX*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADX"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-54
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-ADZ*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "ADZ"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-55
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AEE*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AEE"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-56
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AEF*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AEF"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-57
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AEH*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AEG"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-58
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AET*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AET"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-59
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AEW*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AEW"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-60
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AFC*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AFC"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-61
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AFE*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AFE"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-62
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AFR*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AFR"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-63
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AFW*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AFW"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-64
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AFY*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AFY"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-65
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AFY*05
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AFY"
+    allele_designation: "05"
+
+  - description_id: airr-rm1-66
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AFY*10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AFY"
+    allele_designation: "10"
+
+  - description_id: airr-rm1-67
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AGQ*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AGQ"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-68
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AGQ*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AGQ"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-69
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AGV*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AGV"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-70
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AGV*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AGV"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-71
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AHA*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AHA"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-72
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AHG*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AHG"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-73
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-AHH*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "AHH"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-74
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf10"
+    allele_designation:
+
+  - description_id: airr-rm1-75
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf15
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf15"
+    allele_designation:
+
+  - description_id: airr-rm1-76
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf17
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf17"
+    allele_designation:
+
+  - description_id: airr-rm1-77
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf19
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf19"
+    allele_designation:
+
+  - description_id: airr-rm1-78
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf20
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf20"
+    allele_designation:
+
+  - description_id: airr-rm1-79
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf21
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf21"
+    allele_designation:
+
+  - description_id: airr-rm1-80
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf4
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf4"
+    allele_designation:
+
+  - description_id: airr-rm1-81
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf8
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf8"
+    allele_designation:
+
+  - description_id: airr-rm1-82
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-Korf9
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "Korf9"
+    allele_designation:
+
+  - description_id: airr-rm1-83
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-KSeq1
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "KSeq1"
+    allele_designation:
+
+  - description_id: airr-rm1-84
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-KSeq10
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "KSeq10"
+    allele_designation:
+
+  - description_id: airr-rm1-85
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-KSeq11
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "KSeq11"
+    allele_designation:
+
+  - description_id: airr-rm1-86
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-KSeq13
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "KSeq13"
+    allele_designation:
+
+  - description_id: airr-rm1-87
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-KSeq25
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "KSeq25"
+    allele_designation:
+
+  - description_id: airr-rm1-88
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-KSeq5
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "KSeq5"
+    allele_designation:
+
+  - description_id: airr-rm1-89
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S27
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S27"
+    allele_designation:
+
+  - description_id: airr-rm1-90
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S29
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S29"
+    allele_designation:
+
+  - description_id: airr-rm1-91
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S33
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S33"
+    allele_designation:
+
+  - description_id: airr-rm1-92
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S41
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S41"
+    allele_designation:
+
+  - description_id: airr-rm1-93
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S48
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S48"
+    allele_designation:
+
+  - description_id: airr-rm1-94
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S49
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S49"
+    allele_designation:
+
+  - description_id: airr-rm1-95
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S54
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S54"
+    allele_designation:
+
+  - description_id: airr-rm1-96
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV3-S60
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "S60"
+    allele_designation:
+
+  - description_id: airr-rm1-97
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.100.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-98
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.103
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-99
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.107
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-100
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.107.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-101
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.119
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-102
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.119.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-103
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.120
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-104
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.122
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-105
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.127
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-106
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.127.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-107
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.128
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-108
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.128.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-109
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.141
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-110
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.141.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-111
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.143
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-112
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.152
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-113
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.172
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-114
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.175
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-115
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.177
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-116
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.185
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-117
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.185.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-118
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.187
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-119
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.194
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-120
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.195
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-121
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.28
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-122
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.34
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-123
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.34.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-124
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.35
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-125
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.35.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-126
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.36
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-127
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.36.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-128
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.37
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-129
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.37.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-130
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.5
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-131
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.50
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-132
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.50.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-133
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.52
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-134
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.52.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-135
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.53
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-136
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.53.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-137
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.73.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-138
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.76
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-139
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.76.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-140
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.8
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-141
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.8.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-142
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.83
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-143
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.83.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-144
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.87
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-145
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.87.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-146
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.88
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-147
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.88.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-148
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.9
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-149
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.9.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-150
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV3.94
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-151
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-ABB*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "ABB"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-152
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-ACQ*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "ACQ"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-153
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-ACS*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "ACS"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-154
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-ADD*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "ADD"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-155
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-ADG*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "ADG"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-156
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-AEB*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "AEB"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-157
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-AEC*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "AEC"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-158
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-AEX*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "AEX"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-159
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-AFI*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "AFI"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-160
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-AGL*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "AGL"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-161
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-AGU*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "AGU"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-162
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-Korf3
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-163
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-Korf4
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-164
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-S11
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-165
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-S35
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-166
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-S39
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-167
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV4-S40
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-168
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.144
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-169
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.144.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-170
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.149
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-171
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.149.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-172
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.150
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-173
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.174
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-174
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.174.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-175
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.67.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-176
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.72
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-177
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.79
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-178
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.79.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-179
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV4.93
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-180
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV5-ABI*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "ABI"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-181
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV5-ABI*03
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "ABI"
+    allele_designation: "03"
+
+  - description_id: airr-rm1-182
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV5-AER*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "AER"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-183
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV5-I1
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-184
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV5-Korf2
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-185
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV5.131.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-186
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV5.15
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-187
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV5.157
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-188
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV5.157.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-189
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV6-ACF*02
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "ACF"
+    allele_designation: "02"
+
+  - description_id: airr-rm1-190
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV6-Korf1
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-191
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV6.1
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-192
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV6.1.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-193
+    organism: Macaca mulatta
+    alt_names:
+      - IGHV7-ABS*01
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation: "ABS"
+    allele_designation: "01"
+
+  - description_id: airr-rm1-194
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV7.135
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-195
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV7.135.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-196
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV7.86
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm1-197
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHV7.86.a
+    locus: IGH
+    domain: V
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation:
+    allele_designation:
+
+  # D genes
+  - description_id: airr-rm2-1
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-1*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "1"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-2
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-1*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "1"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-3
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-I7
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-4
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-39*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "39"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-5
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-39*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "39"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-6
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-19*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "19"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-7
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-19*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "19"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-8
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD1.7
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-9
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-I6
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-10
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-7*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "7"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-11
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD1-12*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: "12"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-13
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD1.5
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-14
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD1.6
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-15
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD1.8
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-16
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-20*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "20"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-17
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-20*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "20"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-18
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-13*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "13"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-19
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-25*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "25"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-20
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-30*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "30"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-21
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-8*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "8"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-22
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-8*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "8"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-23
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-35*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "35"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-24
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-2*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: "2"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-25
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD2.11
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-26
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD2.10
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-27
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD2.12
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-28
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD2.13
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-29
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD2.14
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-30
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD2.9
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-31
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-I6
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-32
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-Kb
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-33
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-Ke
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-34
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-I2
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-35
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD2-Kd
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-36
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-21*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "21"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-37
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-9*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "9"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-38
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-36*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "36"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-39
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-14*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "14"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-40
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-26*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "26"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-41
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-26*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "26"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-42
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-3*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: "3"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-43
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD3.17
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-44
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD3.41
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-45
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD3.15
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-46
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD3.20
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-47
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD3.16
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-48
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD3.18
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-49
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-Kc
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-50
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-Ke
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-51
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD3-I2
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-52
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-22*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "22"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-53
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-4*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-55
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-4*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "4"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-56
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-27*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "27"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-57
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-27*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "27"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-58
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-15*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: "15"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-59
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD4.23
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-60
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD4.21
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-61
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD4.25
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-62
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD4.24
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-63
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD4.22
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-64
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-Kd
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-65
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD4-I1
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-66
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-23*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "23"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-67
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-5*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "5"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-68
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-5*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "5"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-69
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-10*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "10"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-70
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-10*02
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "10"
+    allele_designation: "02"
+
+  - description_id: airr-rm2-71
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-33*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "33"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-72
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD5.29
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-73
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-Kc
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-74
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD5-Kd
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-75
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD6-38*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "38"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-76
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD6-6*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "6"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-77
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD6-29*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "29"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-78
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD6-11*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "11"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-79
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD6-24*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "24"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-80
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD6-34*01
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: "34"
+    allele_designation: "01"
+
+  - description_id: airr-rm2-81
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD6.35
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-82
+    organism: Macaca mulatta
+    alt_names:
+      - IGHD6-Kd
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation:
+    allele_designation:
+
+  - description_id: airr-rm2-83
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHD7.40
+    locus: IGH
+    domain: D
+    functional: true
+    gene_subgroup: "7"
+    subgroup_designation:
+    allele_designation:
+
+  # J genes
+  - description_id: airr-rm3-1
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ1*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr-rm3-2
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ1*02
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "1"
+    subgroup_designation: 
+    allele_designation: "02"
+
+  - description_id: airr-rm3-3
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ2-I1
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "2"
+    subgroup_designation: 
+    allele_designation:
+
+  - description_id: airr-rm3-4
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ3*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr-rm3-5
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHJ3.2
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "3"
+    subgroup_designation: 
+    allele_designation:
+
+  - description_id: airr-rm3-6
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ4*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "4"
+    subgroup_designation: 
+    allele_designation: "01"
+
+  - description_id: airr-rm3-7
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ5-1*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "1"
+    allele_designation: "01"
+
+  - description_id: airr-rm3-8
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ5-2*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: "2"
+    allele_designation: "01"
+
+  - description_id: airr-rm3-9
+    organism: Macaca mulatta
+    alt_names:
+      - LJI.Rh_IGHJ5.4
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "5"
+    subgroup_designation: 
+    allele_designation:
+
+  - description_id: airr-rm3-10
+    organism: Macaca mulatta
+    alt_names:
+      - IGHJ6*01
+    locus: IGH
+    domain: J
+    functional: true
+    gene_subgroup: "6"
+    subgroup_designation: 
+    allele_designation: "01"
+
+
+#
+# Delineation annotation for V genes
+#
+
+#
+# Delineation annotation for D genes
+#
+
+#
+# Delineation annotation for J genes
+#
+

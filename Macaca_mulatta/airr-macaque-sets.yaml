@@ -1,0 +1,325 @@
+#
+# Germline sets for Rhesus monkey
+#
+# This file is part of the AIRR Community germline annotation
+#
+# AIRR Community of the Antibody Society
+# https://www.antibodysociety.org/airrc/
+#
+# Copyright (C) 2018: The Authors
+#
+# Authors: Scott Christley
+# Created: November 29, 2018
+#
+# This work is licensed under the 
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# http://creativecommons.org/licenses/by-sa/4.0/
+#
+# This work is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+# NOTE: This file is currently hand-maintained.
+
+Germline_Set:
+  - germline_set_name: AIRR Macaque (Indian origin) IGH
+    author: AIRR Community
+    lab_name: null
+    lab_address: null
+    release_version: null
+    release_description: AIRR Community germline set for macaque immunoglobulin heavy chain locus
+    release_date: null
+    pub_ids: null
+    organism: Macaca mulatta
+    strain: Indian origin
+    notes: null
+    gene_descriptions:
+      - airr-rm1-1
+        airr-rm1-2
+        airr-rm1-3
+        airr-rm1-4
+        airr-rm1-5
+        airr-rm1-6
+        airr-rm1-7
+        airr-rm1-8
+        airr-rm1-9
+        airr-rm1-10
+        airr-rm1-11
+        airr-rm1-12
+        airr-rm1-13
+        airr-rm1-14
+        airr-rm1-15
+        airr-rm1-16
+        airr-rm1-17
+        airr-rm1-18
+        airr-rm1-19
+        airr-rm1-20
+        airr-rm1-21
+        airr-rm1-22
+        airr-rm1-23
+        airr-rm1-24
+        airr-rm1-25
+        airr-rm1-26
+        airr-rm1-27
+        airr-rm1-28
+        airr-rm1-29
+        airr-rm1-30
+        airr-rm1-31
+        airr-rm1-32
+        airr-rm1-33
+        airr-rm1-34
+        airr-rm1-35
+        airr-rm1-36
+        airr-rm1-37
+        airr-rm1-38
+        airr-rm1-39
+        airr-rm1-40
+        airr-rm1-41
+        airr-rm1-42
+        airr-rm1-43
+        airr-rm1-44
+        airr-rm1-45
+        airr-rm1-46
+        airr-rm1-47
+        airr-rm1-48
+        airr-rm1-49
+        airr-rm1-50
+        airr-rm1-51
+        airr-rm1-52
+        airr-rm1-53
+        airr-rm1-54
+        airr-rm1-55
+        airr-rm1-56
+        airr-rm1-57
+        airr-rm1-58
+        airr-rm1-59
+        airr-rm1-60
+        airr-rm1-61
+        airr-rm1-62
+        airr-rm1-63
+        airr-rm1-64
+        airr-rm1-65
+        airr-rm1-66
+        airr-rm1-67
+        airr-rm1-68
+        airr-rm1-69
+        airr-rm1-70
+        airr-rm1-71
+        airr-rm1-72
+        airr-rm1-73
+        airr-rm1-74
+        airr-rm1-75
+        airr-rm1-76
+        airr-rm1-77
+        airr-rm1-78
+        airr-rm1-79
+        airr-rm1-80
+        airr-rm1-81
+        airr-rm1-82
+        airr-rm1-83
+        airr-rm1-84
+        airr-rm1-85
+        airr-rm1-86
+        airr-rm1-87
+        airr-rm1-88
+        airr-rm1-89
+        airr-rm1-90
+        airr-rm1-91
+        airr-rm1-92
+        airr-rm1-93
+        airr-rm1-94
+        airr-rm1-95
+        airr-rm1-96
+        airr-rm1-97
+        airr-rm1-98
+        airr-rm1-99
+        airr-rm1-100
+        airr-rm1-101
+        airr-rm1-102
+        airr-rm1-103
+        airr-rm1-104
+        airr-rm1-105
+        airr-rm1-106
+        airr-rm1-107
+        airr-rm1-108
+        airr-rm1-109
+        airr-rm1-110
+        airr-rm1-111
+        airr-rm1-112
+        airr-rm1-113
+        airr-rm1-114
+        airr-rm1-115
+        airr-rm1-116
+        airr-rm1-117
+        airr-rm1-118
+        airr-rm1-119
+        airr-rm1-120
+        airr-rm1-121
+        airr-rm1-122
+        airr-rm1-123
+        airr-rm1-124
+        airr-rm1-125
+        airr-rm1-126
+        airr-rm1-127
+        airr-rm1-128
+        airr-rm1-129
+        airr-rm1-130
+        airr-rm1-131
+        airr-rm1-132
+        airr-rm1-133
+        airr-rm1-134
+        airr-rm1-135
+        airr-rm1-136
+        airr-rm1-137
+        airr-rm1-138
+        airr-rm1-139
+        airr-rm1-140
+        airr-rm1-141
+        airr-rm1-142
+        airr-rm1-143
+        airr-rm1-144
+        airr-rm1-145
+        airr-rm1-146
+        airr-rm1-147
+        airr-rm1-148
+        airr-rm1-149
+        airr-rm1-150
+        airr-rm1-151
+        airr-rm1-152
+        airr-rm1-153
+        airr-rm1-154
+        airr-rm1-155
+        airr-rm1-156
+        airr-rm1-157
+        airr-rm1-158
+        airr-rm1-159
+        airr-rm1-160
+        airr-rm1-161
+        airr-rm1-162
+        airr-rm1-163
+        airr-rm1-164
+        airr-rm1-165
+        airr-rm1-166
+        airr-rm1-167
+        airr-rm1-168
+        airr-rm1-169
+        airr-rm1-170
+        airr-rm1-171
+        airr-rm1-172
+        airr-rm1-173
+        airr-rm1-174
+        airr-rm1-175
+        airr-rm1-176
+        airr-rm1-177
+        airr-rm1-178
+        airr-rm1-179
+        airr-rm1-180
+        airr-rm1-181
+        airr-rm1-182
+        airr-rm1-183
+        airr-rm1-184
+        airr-rm1-185
+        airr-rm1-186
+        airr-rm1-187
+        airr-rm1-188
+        airr-rm1-189
+        airr-rm1-190
+        airr-rm1-191
+        airr-rm1-192
+        airr-rm1-193
+        airr-rm1-194
+        airr-rm1-195
+        airr-rm1-196
+        airr-rm1-197
+        airr-rm2-1
+        airr-rm2-2
+        airr-rm2-3
+        airr-rm2-4
+        airr-rm2-5
+        airr-rm2-6
+        airr-rm2-7
+        airr-rm2-8
+        airr-rm2-9
+        airr-rm2-10
+        airr-rm2-11
+        airr-rm2-13
+        airr-rm2-14
+        airr-rm2-15
+        airr-rm2-16
+        airr-rm2-17
+        airr-rm2-18
+        airr-rm2-19
+        airr-rm2-20
+        airr-rm2-21
+        airr-rm2-22
+        airr-rm2-23
+        airr-rm2-24
+        airr-rm2-25
+        airr-rm2-26
+        airr-rm2-27
+        airr-rm2-28
+        airr-rm2-29
+        airr-rm2-30
+        airr-rm2-31
+        airr-rm2-32
+        airr-rm2-33
+        airr-rm2-34
+        airr-rm2-35
+        airr-rm2-36
+        airr-rm2-37
+        airr-rm2-38
+        airr-rm2-39
+        airr-rm2-40
+        airr-rm2-41
+        airr-rm2-42
+        airr-rm2-43
+        airr-rm2-44
+        airr-rm2-45
+        airr-rm2-46
+        airr-rm2-47
+        airr-rm2-48
+        airr-rm2-49
+        airr-rm2-50
+        airr-rm2-51
+        airr-rm2-52
+        airr-rm2-53
+        airr-rm2-55
+        airr-rm2-56
+        airr-rm2-57
+        airr-rm2-58
+        airr-rm2-59
+        airr-rm2-60
+        airr-rm2-61
+        airr-rm2-62
+        airr-rm2-63
+        airr-rm2-64
+        airr-rm2-65
+        airr-rm2-66
+        airr-rm2-67
+        airr-rm2-68
+        airr-rm2-69
+        airr-rm2-70
+        airr-rm2-71
+        airr-rm2-72
+        airr-rm2-73
+        airr-rm2-74
+        airr-rm2-75
+        airr-rm2-76
+        airr-rm2-77
+        airr-rm2-78
+        airr-rm2-79
+        airr-rm2-80
+        airr-rm2-81
+        airr-rm2-82
+        airr-rm2-83
+        airr-rm3-1
+        airr-rm3-2
+        airr-rm3-3
+        airr-rm3-4
+        airr-rm3-5
+        airr-rm3-6
+        airr-rm3-7
+        airr-rm3-8
+        airr-rm3-9
+        airr-rm3-10
